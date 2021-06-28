@@ -7,9 +7,9 @@ we can search content for its meaning in addition to keywords, and increase the 
 ## ![Dimensionality Engine](https://github.com/Neerajcerebrum/AISearch/blob/develop/images/Dimensionality.png)
 
 The goal is to map trained dataset into the vector space of natural language queries, such that (text, query) pairs that describe the same concept are close neighbors, whereas unrelated (text, query) pairs are further apart, measured by cosine similarity.
-
+<!-- 
 ##NLP text similarity, how it works and maths behind it
-![Search Engine](https://github.com/Neerajcerebrum/AISearch/blob/develop/images/Brain.png)
+![Search Engine](https://github.com/Neerajcerebrum/AISearch/blob/develop/images/Brain.png) -->
 
 ## Operation on embeddings 
 ![Search Engine](https://github.com/Neerajcerebrum/AISearch/blob/develop/images/VecorsMath.png)
