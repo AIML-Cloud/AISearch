@@ -13,3 +13,6 @@ The goal is to map trained dataset into the vector space of natural language que
 
 ## Operation on embeddings 
 ![Search Engine](https://github.com/Neerajcerebrum/AISearch/blob/develop/images/VecorsMath.png)
+
+## Search Engine
+![Search Engine](https://github.com/Neerajcerebrum/AISearch/blob/develop/images/se.png)
