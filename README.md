@@ -16,6 +16,8 @@ The goal is to map trained dataset into the vector space of natural language que
 
 3D shared vector space will be loaded with our extracted embeddings and every new query
 will pe plotted in the shared space. In search engine the knn model is used to return top 2 nearest neighbors to the user.
+
+## Shared 3D space for the training dataset embeddings and User query
  ![Search Engine](https://github.com/Neerajcerebrum/AISearch/blob/develop/images/embed.png)
 
 ## Search Engine return top 2 responses to the user. 
