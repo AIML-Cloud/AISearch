@@ -11,8 +11,9 @@ The goal is to map trained dataset into the vector space of natural language que
 ##NLP text similarity, how it works and maths behind it
 ![Search Engine](https://github.com/Neerajcerebrum/AISearch/blob/develop/images/Brain.png) -->
 
-## Operation on embeddings 
-![Search Engine](https://github.com/Neerajcerebrum/AISearch/blob/develop/images/VecorsMath.png)
+## Exposing the last hidden state of the model to get the last layer embeddings from the language model.
+![Search Engine](https://github.com/Neerajcerebrum/AISearch/blob/develop/images/model.png)
 
-## Search Engine
+## 3D shared vector space will be loaded with our extracted embeddings and every new query
+## will pe plotted in the shared space and using knn top 2 nearest neighbors will be returned to the user.   
 ![Search Engine](https://github.com/Neerajcerebrum/AISearch/blob/develop/images/se.png)
