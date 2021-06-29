@@ -71,7 +71,7 @@ def stemSentence(sentence):
 train_df1 = df.head(199)
 valid_df1 = df.tail(90)
 """
-Adding wrapper on the imported dataset and Checking the converted fastai dataset"""
+Wraping an iterable on the imported dataset and Checking the converted fastai dataset"""
 data_lm = TextLMDataBunch.from_df(train_df = train_df1, valid_df = valid_df1, text_cols='docstring_tokens', path = "")
 
 data_lm.show_batch()
